@@ -40,3 +40,8 @@
   background-color: rgb(118, 121, 253);
   color: white;
 }
+.error {
+  color: red;
+  font-size: 14px;
+  width: 100%;
+}
